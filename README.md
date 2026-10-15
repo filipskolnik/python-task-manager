@@ -35,7 +35,6 @@ A simple command-line task manager written in Python. It lets you organize tasks
 
 ## Menu
 
-```text
 === TASK MANAGER ===
 1. Add text
 2. Show tasks
@@ -44,7 +43,6 @@ A simple command-line task manager written in Python. It lets you organize tasks
 5. Rename task
 6. Delete task
 7. Exit
-```
 
 The **Complete task** option can mark a task as either completed or not completed.
 
